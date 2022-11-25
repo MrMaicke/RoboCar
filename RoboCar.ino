@@ -18,7 +18,6 @@
 #define MOTOR_D1    D3
 #define MOTOR_D2    D4
 #define MOTOR_DV    D5
-
 #define MINVEL      150
 
 // Sensor de distancia HC-SR04
