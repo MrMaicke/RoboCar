@@ -72,7 +72,6 @@ void setup() {
   pinMode(MOTOR_E2, OUTPUT);
   pinMode(MOTOR_EV, OUTPUT);
 
-
   cabeca.attach(CABECA);
   cabeca.write(ANGAJUSTE + ANGCENTRO);
 
