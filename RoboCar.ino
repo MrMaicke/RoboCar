@@ -32,7 +32,6 @@
 #define ANGDIR      70 // ANGULO DIREITA
 #define MAXDIST     70
 
-
 //how many clients should be able to telnet to this ESP8266
 const char* ssid1 = "rede1";
 const char* password1 = "12345";
